@@ -1,0 +1,11 @@
+
+# Node specific #
+#################
+node_modules
+
+# IDE Specific #
+################
+.idea
+.DS_Store
+.vscode/launch.json
+
